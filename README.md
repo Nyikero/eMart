@@ -1,4 +1,4 @@
-# e_mart
+# eMart
 
 A new Flutter project.
 
